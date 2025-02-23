@@ -8,7 +8,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>My First GitHub Page</title>
+<title>Nkamo's Heavenly Bite Bakery</title>
 
 </head>
 
@@ -16,7 +16,7 @@
 
 <header>
 
-<h1>Welcome to My Website!</h1>
+<h1>Welcome to Nkamo's Heavenly Bite Bakery - The Home Of Delicious Bite!</h1>
 
 </header>
 
@@ -26,7 +26,7 @@
 
 <p>This is a simple webpage hosted on GitHub Pages.</p>
 
-<p>Here's a picture of a cute cat:</p>
+<p>Here's a glimse of a cute cat:</p>
 
 <img src="https://placekitten.com/200/300" alt="A cute kitten">
 
