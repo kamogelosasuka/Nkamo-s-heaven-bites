@@ -47,7 +47,3 @@
 </body>
 
 </html>
-
-Explanation:
-
-· <!DOCTYPE html>: Declares the document
